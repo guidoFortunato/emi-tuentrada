@@ -32,28 +32,28 @@ const Eventos = (props) => {
           </div> */}
           <div className="row">
             <Evento
-              title="YSY A - COMODORO RIVADAVIA"
-              date="JUE 16 MAR 2023"
-              image="https://www.tuentrada.com/images/63efaf054c585.webp"
-              buy="https://www.tuentrada.com/eventos/detalle/YSY-A/653292305251"
+              title="EMI - NEUQUEN"
+              date="DOM 14 MAY 2023"
+              image="https://www.tuentrada.com/images/640f3ca54a66c.webp"
+              buy="https://www.tuentrada.com/eventos/detalle/EMI-NQN/699577660235"
             />
             <Evento
-              title="YSY A - SANTA FE"
-              date="SAB 01 ABR 2023"
-              image="https://www.tuentrada.com/images/640a0c3608605.webp"
-              buy="https://www.tuentrada.com/eventos/detalle/SantaFe/579595836120"
+              title="EMI - TANDIL"
+              date="JUE 11 MAY 2023"
+              image="https://www.tuentrada.com/images/640cf09731034.webp"
+              buy="https://www.tuentrada.com/eventos/detalle/EMI/948148275090"
             />
              <Evento
-              title="YSY A - TUCUMAN"
+              title="EMI - BAHÍA BLANCA"
               date="VIE 14 ABR 2023"
-              image="https://www.tuentrada.com/images/63efcd70198a8.webp"
-              buy="https://www.tuentrada.com/eventos/detalle/YSY-A/581849177433"
+              image="https://www.tuentrada.com/images/6408f1bfe0f66.webp"
+              buy="https://www.tuentrada.com/eventos/detalle/EMI/572188614030"
             />
             <Evento
-              title="YSY A - SALTA"
-              date="SAB 15 ABR 2023"
-              image="https://www.tuentrada.com/images/640a0a279b002.webp"
-              buy="https://www.tuentrada.com/eventos/detalle/YSYA-SALTA/583066461895"
+              title="EMI - MENDOZA"
+              date="JUE 8 JUN 2023"
+              image="https://www.tuentrada.com/images/63f6461e711e3.webp"
+              buy="https://www.tuentrada.com/eventos/detalle/TeatroPlaza/737501936378"
             />
           </div>
         </div>

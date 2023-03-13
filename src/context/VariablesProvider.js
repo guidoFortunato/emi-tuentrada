@@ -23,12 +23,12 @@ const VariablesProvider = (props) => {
     iframeAlt: "",
     logo: logo,
     altLogo: "logo tuentrada",
-    venueName: "YsY A",
+    venueName: "EMI",
     tuentradaName: "tuentrada.com",
     linkTuentrada: "https://tuentrada.com",
-    linkVenueFb: "https://www.facebook.com/ysyashakur",
-    linkVenueTw: "https://twitter.com/ysy__a",
-    linkVenueIg: "https://www.instagram.com/ysy__a/",
+    linkVenueFb: "",
+    linkVenueTw: "https://twitter.com/EGBrancciari",
+    linkVenueIg: "https://www.instagram.com/egbrancciari77/",
     volver: "Volver",
     tituloEventos: "PRÓXIMOS SHOWS",
     tituloImagenes: "Imagenes",
@@ -44,13 +44,13 @@ const VariablesProvider = (props) => {
     elementoNavbar4: "Ubicacion",
     tituloInicio: "",
     botonInicio: "SHOWS",
-    tituloHistoriaArriba: "YSY A",
+    tituloHistoriaArriba: "EMI",
     tituloHistoriaAbajo: "",
     imagenHistoria: historia,
     descripcion1:
-      "Alejo Nahuel Acosta, mejor conocido en el mundo del espectáculo como Ysy A, es un cantante y compositor argentino que nació el 12 de julio del año 1998. Este intérprete se convirtió rápidamente en uno de los cantantes de rap y hip hop con mayor influencia en Argentina. El artista inició su carrera musical, desde muy joven, como un rapero freestyle en las calles de la ciudad de Buenos Aires",
+      "Emiliano Germán Brancciari Amarillo (Vicente López, 28 de octubre de 1977) es un músico y compositor argentino nacionalizado uruguayo, que hizo la mayoría de su carrera musical en ese país. Es uno de los líderes fundadores de la banda No Te Va Gustar.",
     descripcion2:
-      "",
+      "La última vez que Emiliano Brancciari pisó un escenario argentino fue el 18 de febrero, en Córdoba, cuando se presentó con No Te Va Gustar en el festival Cosquín Rock. A pocas semanas de ese show, con el que la banda uruguaya siguió defendiendo su disco Luz (2021), el músico regresa a esta orilla del Río de la Plata para ofrecer otro recital. Uno bastante especial, por su rareza y esencia. Y es que esta vez lo hará solo, sin sus compañeros de grupo.",
   };
 
   const [variables, setVariables] = React.useState(variablesGlobales);
