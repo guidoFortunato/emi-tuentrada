@@ -1,5 +1,8 @@
 import React from "react";
 import { VariablesContext } from "../../context/VariablesProvider";
+import { CiFacebook,CiTwitter, CiInstagram } from 'react-icons/ci';
+
+
 
 const SectionHistoria = () => {
   const { variables } = React.useContext(VariablesContext);
@@ -32,6 +35,14 @@ const SectionHistoria = () => {
               <p className="about-text">{variables.descripcion1}</p>
 
               <p className="about-text">{variables.descripcion2}</p>
+              <div className="redes-icon">
+                <p>Seguilo en sus redes:</p>
+                 <a target="_blank" href={variables.linkVenueIg}><CiInstagram /></a>
+                 <a target="_blank" href={variables.linkVenueFb}><CiFacebook /></a>
+                 <a target="_blank" href={variables.linkVenueTw}><CiTwitter /></a>
+              
+                
+              </div>
             </div>
           </div>
         </div>
