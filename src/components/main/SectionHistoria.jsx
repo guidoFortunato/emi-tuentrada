@@ -24,7 +24,7 @@ const SectionHistoria = () => {
 
         <div className="container about-container wow fadeInUp">
           <div className="row">
-            <div className="col-12 col-lg-6 about-img mb-2 mb-lg-0">
+            <div className="col-12 col-lg-6 about-img mb-2 mb-lg-0   ">
               <img src={variables.imagenHistoria} alt={variables.venueName} />
             </div>
 

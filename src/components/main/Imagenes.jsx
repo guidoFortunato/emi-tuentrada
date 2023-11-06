@@ -18,7 +18,7 @@ const Imagenes = () => {
           </div>
 
           <div className="row portfolio-container">
-            <div className="col-lg-4 col-md-6 portfolio-item zoom">
+            <div className="col-lg-4 col-md-6 portfolio-item zoom d-flex justify-content-center">
               <img
                 src={variables.portfolioImg1}
                 className="img-fluid"
@@ -26,7 +26,7 @@ const Imagenes = () => {
               />
             </div>
 
-            <div className="col-lg-4 col-md-6 portfolio-item zoom">
+            <div className="col-lg-4 col-md-6 portfolio-item zoom d-flex justify-content-center">
               <img
                 src={variables.portfolioImg2}
                 className="img-fluid"
@@ -34,7 +34,7 @@ const Imagenes = () => {
               />
             </div>
 
-            <div className="col-lg-4 col-md-6 portfolio-item zoom">
+            <div className="col-lg-4 col-md-6 portfolio-item zoom d-flex justify-content-center">
               <img
                 src={variables.portfolioImg3}
                 className="img-fluid"
@@ -42,7 +42,7 @@ const Imagenes = () => {
               />
             </div>
 
-            <div className="col-lg-4 col-md-6 portfolio-item zoom">
+            <div className="col-lg-4 col-md-6 portfolio-item zoom d-flex justify-content-center">
               <img
                 src={variables.portfolioImg4}
                 className="img-fluid"
@@ -50,7 +50,7 @@ const Imagenes = () => {
               />
             </div>
 
-            <div className="col-lg-4 col-md-6 portfolio-item zoom">
+            <div className="col-lg-4 col-md-6 portfolio-item zoom d-flex justify-content-center">
               <img
                 src={variables.portfolioImg5}
                 className="img-fluid"
@@ -58,7 +58,7 @@ const Imagenes = () => {
               />
             </div>
 
-            <div className="col-lg-4 col-md-6 portfolio-item zoom">
+            <div className="col-lg-4 col-md-6 portfolio-item zoom d-flex justify-content-center">
               <img
                 src={variables.portfolioImg6}
                 className="img-fluid"
