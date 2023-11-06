@@ -5,7 +5,7 @@ const Section = () => {
   const { variables } = React.useContext(VariablesContext);
   return (
     <>
-      <section id="hero">
+      <section id="hero" className="hero hero-mobile">
         <div className="hero-container">
           <div className="wow fadeIn">
             {/* <div className="hero-logo">

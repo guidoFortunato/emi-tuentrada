@@ -31,7 +31,7 @@ const Navbar = () => {
             <nav data-toggle="collapse" className={navbar ? "navbar navbar-expand-lg navbar-dark navbar-active fixed-top" : "navbar navbar-expand-lg navbar-dark fixed-top"}>
                 <div className="container">
                         <a href="https://www.tuentrada.com/" target='_blank' rel='noreferrer'>
-                            <img src={variables.logo} style={{width: 'auto', height: 'auto'}} alt={variables.altLogo} />
+                            <img src="https://tuentrada.com/newsletter/logo.png" style={{width: '180px', height: 'auto', opacity: '75%'}} alt={variables.altLogo} />
                         </a>
 
                     

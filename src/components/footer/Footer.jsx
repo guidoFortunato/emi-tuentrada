@@ -269,7 +269,7 @@ const Footer = () => {
 						</div>
 						<div className='col-12 col-lg-6 my-4 text-center btop'>
 							<p>
-								Copyright @ 2023 TUENTRADA.COM <br />
+								Copyright @ {new Date().getFullYear()} TUENTRADA.COM <br />
 								Todos los derechos reservados
 							</p>
 						</div>

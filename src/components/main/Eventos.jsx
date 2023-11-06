@@ -30,31 +30,26 @@ const Eventos = (props) => {
             </div>
 
           </div> */}
-          <div className="row">
-            <Evento
-              title="TANDIL"
-              date="JUE 11 MAY 2023"
-              image="https://www.tuentrada.com/images/640cf09731034.webp"
-              buy="https://www.tuentrada.com/eventos/detalle/EMI/948148275090"
-            />
-              <Evento
-               title="BAHÍA BLANCA"
-               date="SAB 13 MAY 2023"
-               image="https://www.tuentrada.com/images/6408f1bfe0f66.webp"
-               buy="https://www.tuentrada.com/eventos/detalle/EMI/572188614030"
-             />
-            <Evento
-              title="NEUQUEN"
-              date="DOM 14 MAY 2023"
-              image="https://www.tuentrada.com/images/640f3ca54a66c.webp"
-              buy="https://www.tuentrada.com/eventos/detalle/EMI-NQN/699577660235"
-            />
+          <div className="row justify-content-evenly">
             <Evento
               title="MENDOZA"
-              date="JUE 8 JUN 2023"
-              image="https://www.tuentrada.com/images/63f6461e711e3.webp"
-              buy="https://www.tuentrada.com/eventos/detalle/TeatroPlaza/737501936378"
+              date="SAB 25 NOV 2023"
+              image="https://www.tuentrada.com/images/65415fc4762b7.webp"
+              buy="https://www.tuentrada.com/eventos/detalle/YSY-A-MENDOZA/637423034816"
             />
+              <Evento
+               title="ROSARIO"
+               date="MIE 6 DIC 2023"
+               image="https://www.tuentrada.com/images/65454ff900e06.webp"
+               buy="https://www.tuentrada.com/eventos/detalle/YSY-A/574837893014"
+             />
+            <Evento
+              title="BUENOS AIRES"
+              date="DOM 17 DIC 2023"
+              image="https://www.tuentrada.com/images/6529a9ee67b71.webp"
+              buy="https://www.tuentrada.com/eventos/detalle/YSY-A/200044660278"
+            />
+           
           </div>
         </div>
       </section>
